@@ -1,0 +1,15 @@
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\bin\Debug\net6.0\FirstDayPractice.exe
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\bin\Debug\net6.0\FirstDayPractice.deps.json
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\bin\Debug\net6.0\FirstDayPractice.runtimeconfig.json
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\bin\Debug\net6.0\FirstDayPractice.dll
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\bin\Debug\net6.0\FirstDayPractice.pdb
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\FirstDayPractice.csproj.AssemblyReference.cache
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\FirstDayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\FirstDayPractice.AssemblyInfoInputs.cache
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\FirstDayPractice.AssemblyInfo.cs
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\FirstDayPractice.csproj.CoreCompileInputs.cache
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\FirstDayPractice.dll
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\refint\FirstDayPractice.dll
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\FirstDayPractice.pdb
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\FirstDayPractice.genruntimeconfig.cache
+C:\Users\10017013\source\repos\FirstDayPractice\FirstDayPractice\obj\Debug\net6.0\ref\FirstDayPractice.dll
