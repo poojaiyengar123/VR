@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\10017013\\source\\repos\\ListOfNums\\ListOfNums\\ListOfNums.csproj": {}
+    "C:\\Users\\10017013\\Documents\\GitHub\\VR\\ListOfNums\\ListOfNums\\ListOfNums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\10017013\\source\\repos\\ListOfNums\\ListOfNums\\ListOfNums.csproj": {
+    "C:\\Users\\10017013\\Documents\\GitHub\\VR\\ListOfNums\\ListOfNums\\ListOfNums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\10017013\\source\\repos\\ListOfNums\\ListOfNums\\ListOfNums.csproj",
+        "projectUniqueName": "C:\\Users\\10017013\\Documents\\GitHub\\VR\\ListOfNums\\ListOfNums\\ListOfNums.csproj",
         "projectName": "ListOfNums",
-        "projectPath": "C:\\Users\\10017013\\source\\repos\\ListOfNums\\ListOfNums\\ListOfNums.csproj",
+        "projectPath": "C:\\Users\\10017013\\Documents\\GitHub\\VR\\ListOfNums\\ListOfNums\\ListOfNums.csproj",
         "packagesPath": "C:\\Users\\10017013\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\10017013\\source\\repos\\ListOfNums\\ListOfNums\\obj\\",
+        "outputPath": "C:\\Users\\10017013\\Documents\\GitHub\\VR\\ListOfNums\\ListOfNums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

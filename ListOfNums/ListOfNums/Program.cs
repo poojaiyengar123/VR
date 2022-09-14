@@ -119,6 +119,8 @@ namespace ListOfNums
             Tuple<string, int> tup1 = new Tuple<string, int>(longest, longest.Length);
             Tuple<string, int> tup2 = new Tuple<string, int>(longest2, longest2.Length);
             List<Tuple<string, int>> strings = new List<Tuple<string, int>>();
+            strings.Add(tup1);
+            strings.Add(tup2);
             return strings;
         }
     }
