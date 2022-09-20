@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{2F007428-5597-4DEB-B049-99ACF8499DE6}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamReader/Program.cs">
+    <Files>
+      <File FileName="StreamReader/Program.cs" Line="23" Column="14" />
+      <File FileName="StreamReader/MovieQuote.txt" Line="1" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StreamReader" expanded="True">
+            <Node name="StreamReader" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StreamReader FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StreamReader PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
