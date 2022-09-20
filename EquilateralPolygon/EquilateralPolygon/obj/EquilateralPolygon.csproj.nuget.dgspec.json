@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/EquilateralPolygon.csproj": {}
+    "/Users/poojaraghuram/Documents/GitHub/VR/EquilateralPolygon/EquilateralPolygon/EquilateralPolygon.csproj": {}
   },
   "projects": {
-    "/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/EquilateralPolygon.csproj": {
+    "/Users/poojaraghuram/Documents/GitHub/VR/EquilateralPolygon/EquilateralPolygon/EquilateralPolygon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/EquilateralPolygon.csproj",
+        "projectUniqueName": "/Users/poojaraghuram/Documents/GitHub/VR/EquilateralPolygon/EquilateralPolygon/EquilateralPolygon.csproj",
         "projectName": "EquilateralPolygon",
-        "projectPath": "/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/EquilateralPolygon.csproj",
+        "projectPath": "/Users/poojaraghuram/Documents/GitHub/VR/EquilateralPolygon/EquilateralPolygon/EquilateralPolygon.csproj",
         "packagesPath": "/Users/poojaraghuram/.nuget/packages/",
-        "outputPath": "/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/",
+        "outputPath": "/Users/poojaraghuram/Documents/GitHub/VR/EquilateralPolygon/EquilateralPolygon/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/poojaraghuram/.nuget/NuGet/NuGet.Config"

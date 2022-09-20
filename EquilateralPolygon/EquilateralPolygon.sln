@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1703.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquilateralPolygon", "EquilateralPolygon\EquilateralPolygon.csproj", "{D019FB98-2BF2-42D5-959D-B8C49ED92D7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquilateralPolygon", "EquilateralPolygon\EquilateralPolygon.csproj", "{2A562A62-3D2B-43DE-90C3-C13A3CFFB369}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D019FB98-2BF2-42D5-959D-B8C49ED92D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D019FB98-2BF2-42D5-959D-B8C49ED92D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D019FB98-2BF2-42D5-959D-B8C49ED92D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D019FB98-2BF2-42D5-959D-B8C49ED92D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A562A62-3D2B-43DE-90C3-C13A3CFFB369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A562A62-3D2B-43DE-90C3-C13A3CFFB369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A562A62-3D2B-43DE-90C3-C13A3CFFB369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A562A62-3D2B-43DE-90C3-C13A3CFFB369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {89892EF2-4B1C-43E8-A4FD-6B6326423735}
+		SolutionGuid = {4E863005-05D1-45DF-BAE4-D7A06E842FED}
 	EndGlobalSection
 EndGlobal
