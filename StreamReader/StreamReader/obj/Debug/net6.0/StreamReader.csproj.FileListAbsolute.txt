@@ -1,0 +1,15 @@
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/bin/Debug/net6.0/StreamReader
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/bin/Debug/net6.0/StreamReader.deps.json
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/bin/Debug/net6.0/StreamReader.runtimeconfig.json
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/bin/Debug/net6.0/StreamReader.dll
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/bin/Debug/net6.0/StreamReader.pdb
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/StreamReader.csproj.AssemblyReference.cache
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/StreamReader.AssemblyInfoInputs.cache
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/StreamReader.AssemblyInfo.cs
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/StreamReader.csproj.CoreCompileInputs.cache
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/StreamReader.dll
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/refint/StreamReader.dll
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/StreamReader.pdb
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/StreamReader.genruntimeconfig.cache
+/Users/poojaraghuram/Documents/GitHub/VR/StreamReader/StreamReader/obj/Debug/net6.0/ref/StreamReader.dll

@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{2A562A62-3D2B-43DE-90C3-C13A3CFFB369}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EquilateralPolygon/Program.cs">
+    <Files>
+      <File FileName="EquilateralPolygon/Program.cs" Line="26" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EquilateralPolygon" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EquilateralPolygon FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EquilateralPolygon PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
