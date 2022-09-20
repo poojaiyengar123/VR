@@ -35,22 +35,24 @@ namespace EquilateralPolygon
     }
     public class EquilateralPolygon
     {
+        public int sides;
+        public int sideLengths;
 
-        public EquilateralPolygon()
+        public EquilateralPolygon(int s, int sl)
         {
+            sides = s;
+            sideLengths = sl;
         }
     }
     public class Square : EquilateralPolygon
     {
-        public int sides;
-        public int sideLengths;
         int area;
         int perimeter;
 
-        public Square(int sides, int sideLengths)
+        public Square(int sides, int sideLengths) : base(4, sideLengths)
         {
-            this.sides = sides;
-            this.sideLengths = sideLengths;
+            GetArea();
+            GetPerimeter();
         }
         public int GetArea()
         {
