@@ -1,0 +1,15 @@
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/bin/Debug/net6.0/DIctionary
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/bin/Debug/net6.0/DIctionary.deps.json
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/bin/Debug/net6.0/DIctionary.runtimeconfig.json
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/bin/Debug/net6.0/DIctionary.dll
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/bin/Debug/net6.0/DIctionary.pdb
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/DIctionary.csproj.AssemblyReference.cache
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/DIctionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/DIctionary.AssemblyInfoInputs.cache
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/DIctionary.AssemblyInfo.cs
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/DIctionary.csproj.CoreCompileInputs.cache
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/DIctionary.dll
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/refint/DIctionary.dll
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/DIctionary.pdb
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/DIctionary.genruntimeconfig.cache
+/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/Debug/net6.0/ref/DIctionary.dll

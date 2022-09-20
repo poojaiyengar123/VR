@@ -1,0 +1,15 @@
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/bin/Debug/net6.0/EquilateralPolygon
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/bin/Debug/net6.0/EquilateralPolygon.deps.json
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/bin/Debug/net6.0/EquilateralPolygon.runtimeconfig.json
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/bin/Debug/net6.0/EquilateralPolygon.dll
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/bin/Debug/net6.0/EquilateralPolygon.pdb
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/EquilateralPolygon.csproj.AssemblyReference.cache
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/EquilateralPolygon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/EquilateralPolygon.AssemblyInfoInputs.cache
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/EquilateralPolygon.AssemblyInfo.cs
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/EquilateralPolygon.csproj.CoreCompileInputs.cache
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/EquilateralPolygon.dll
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/refint/EquilateralPolygon.dll
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/EquilateralPolygon.pdb
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/EquilateralPolygon.genruntimeconfig.cache
+/Users/poojaraghuram/Projects/EquilateralPolygon/EquilateralPolygon/obj/Debug/net6.0/ref/EquilateralPolygon.dll
