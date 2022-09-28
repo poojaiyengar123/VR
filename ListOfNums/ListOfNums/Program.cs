@@ -13,7 +13,7 @@ namespace ListOfNums
             foreach(var y in list)
                 Console.WriteLine(y);
 
-            Tuple<double,int> myTuple = FindAvg_Total(list);
+            Tuple<double,int> myTuple = FindAvg_Total(list); 
             Console.WriteLine();
             Console.WriteLine("Average: " + myTuple.Item1);
             Console.WriteLine("Total Number of Values: " + myTuple.Item2);
