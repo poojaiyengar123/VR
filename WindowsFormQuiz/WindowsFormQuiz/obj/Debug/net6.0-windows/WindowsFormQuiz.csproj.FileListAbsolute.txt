@@ -1,0 +1,17 @@
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\bin\Debug\net6.0-windows\WindowsFormQuiz.exe
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\bin\Debug\net6.0-windows\WindowsFormQuiz.deps.json
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\bin\Debug\net6.0-windows\WindowsFormQuiz.runtimeconfig.json
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\bin\Debug\net6.0-windows\WindowsFormQuiz.dll
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\bin\Debug\net6.0-windows\WindowsFormQuiz.pdb
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.csproj.AssemblyReference.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.Form1.resources
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.csproj.GenerateResource.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.AssemblyInfoInputs.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.AssemblyInfo.cs
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.csproj.CoreCompileInputs.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.dll
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\refint\WindowsFormQuiz.dll
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.pdb
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\WindowsFormQuiz.genruntimeconfig.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormQuiz\WindowsFormQuiz\obj\Debug\net6.0-windows\ref\WindowsFormQuiz.dll

@@ -1,0 +1,15 @@
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\bin\Debug\net6.0\BasicsQuiz.exe
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\bin\Debug\net6.0\BasicsQuiz.deps.json
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\bin\Debug\net6.0\BasicsQuiz.runtimeconfig.json
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\bin\Debug\net6.0\BasicsQuiz.dll
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\bin\Debug\net6.0\BasicsQuiz.pdb
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\BasicsQuiz.csproj.AssemblyReference.cache
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\BasicsQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\BasicsQuiz.AssemblyInfoInputs.cache
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\BasicsQuiz.AssemblyInfo.cs
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\BasicsQuiz.csproj.CoreCompileInputs.cache
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\BasicsQuiz.dll
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\refint\BasicsQuiz.dll
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\BasicsQuiz.pdb
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\BasicsQuiz.genruntimeconfig.cache
+C:\Users\10017013\Documents\GitHub\VR\BasicsQuiz\BasicsQuiz\obj\Debug\net6.0\ref\BasicsQuiz.dll
