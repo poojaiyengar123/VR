@@ -28,13 +28,11 @@ namespace ListOfNums
             s3 = Console.ReadLine();
             Console.WriteLine("Enter a fourth string: ");
             s4 = Console.ReadLine();
-            Console.WriteLine(s1 + "," + s2 + "," + s3 + "," + s4);
+            //Console.WriteLine(s1 + "," + s2 + "," + s3 + "," + s4);
 
             List<Tuple<string, int>> strings = FindLongestStrings(s1, s2, s3, s4);
             foreach(var x in strings)
-            {
                 Console.WriteLine(x.Item1 + ", " + x.Item2);
-            }
 
         }
 

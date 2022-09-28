@@ -1,0 +1,11 @@
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.exe.config
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.exe
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.pdb
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.Form1.resources
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.Properties.Resources.resources
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.GenerateResource.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.exe
+C:\Users\10017013\Documents\GitHub\VR\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.pdb

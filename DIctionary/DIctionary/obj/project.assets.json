@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/poojaraghuram/.nuget/packages/": {}
+    "C:\\Users\\10017013\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/poojaraghuram/Projects/DIctionary/DIctionary/DIctionary.csproj",
+      "projectUniqueName": "C:\\Users\\10017013\\Documents\\GitHub\\VR\\DIctionary\\DIctionary\\DIctionary.csproj",
       "projectName": "DIctionary",
-      "projectPath": "/Users/poojaraghuram/Projects/DIctionary/DIctionary/DIctionary.csproj",
-      "packagesPath": "/Users/poojaraghuram/.nuget/packages/",
-      "outputPath": "/Users/poojaraghuram/Projects/DIctionary/DIctionary/obj/",
+      "projectPath": "C:\\Users\\10017013\\Documents\\GitHub\\VR\\DIctionary\\DIctionary\\DIctionary.csproj",
+      "packagesPath": "C:\\Users\\10017013\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\10017013\\Documents\\GitHub\\VR\\DIctionary\\DIctionary\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/poojaraghuram/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\10017013\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
